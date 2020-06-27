@@ -1,4 +1,11 @@
 # Typescript-fsaの基礎
+## import
+dependencies
+```
+npm install --save typescript-fsa typescript-fsa-reducers  
+or  
+yarn add typescript-fsa typescript-fsa-reducers  
+```
 
 ## actionsの作成    
 actionCreatorを作成する
